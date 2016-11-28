@@ -97,11 +97,11 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 5 AND SECTION 6 CANNOT 
 
 ## You
 
-Date: **DateHere**  
-Name: **YourNameHere**  
-GitHub Username: **GitHubUsernameHere**  
-Email: **YourEmailAddressHere**  
-Address: **YourAddressHere**
+Date: **11/28/16**  
+Name: **EthanShew**  
+GitHub Username: **ethanshew**  
+Email: **ethan.shew@sjprephawks.org**  
+Address: **Philadelphia,PA**
 
 ## Us 
 
